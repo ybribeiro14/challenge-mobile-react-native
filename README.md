@@ -10,7 +10,7 @@ A ideia é bem simples, queremos um aplicativo que nos mostre todos os personage
 - A listagem deverá ser ordenada por nome;
 - Uma modal com os detalhes do personagem;
 - Deve ser possível favoritar um personagem; (os favoritos devem ser salvos em base local.)
-- Deverá disponibilizar dois filtros: nome do personagem, e meus favoritos;
+- Deverá disponibilizar dois filtros: nome do personagem e meus favoritos;
 
 ## Requisitos técnicos:
 - TypeScript;
