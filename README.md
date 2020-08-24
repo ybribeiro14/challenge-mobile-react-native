@@ -31,6 +31,5 @@ A ideia é bem simples, queremos um aplicativo que nos mostre todos os personage
 
 ## Como iremos avaliar?
 - Faça um fork desse repósitorio. (o início será contabilizado a partir do envio das instruções.)
-- Você terá uma semana para concluir o desafio.
 - Ao termino, faça seu pull-request. (levaremos em consideração o tempo entre essas duas etapas.)
 - Após isso, é conosco!
